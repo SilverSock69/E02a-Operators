@@ -1,3 +1,6 @@
+In these lines of code we will be working with data types. The lines of code should include strings, functions, and lists. Basically, in the code there are different segments that are math functions. These are the codes listed with "def" and then a math function. With python, we can manipulate the functions to solve math problems. In my lines of code, there were multiple functions I was unfamiliar with and unable to find help how to resolve the bug. So hopefully you can download my code and fix the lines that are bugged to be able to properly work
+
+
 # E02a-Operators
 An exercise exploring python operators and data types
 
